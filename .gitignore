@@ -1,0 +1,9 @@
+.vs
+.vscode
+.idea
+
+[bB]in
+[oO]bj
+[dD]bug
+
+.logs

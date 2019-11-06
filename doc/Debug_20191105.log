@@ -1,0 +1,528 @@
+2019-11-05 16:11:31.1846|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:11:41.4328|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:11:41.4328|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:11:41.4984|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:11:41.5106|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:11:41.5185|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:11:41.5185|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:11:42.9010|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:11:53.0156|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:11:53.0156|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:11:53.0816|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:11:53.0816|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:11:53.1015|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:11:53.1015|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:11:54.6555|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:12:05.1433|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:12:05.1433|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:12:05.2049|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:12:05.2049|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:12:05.2247|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:12:05.2247|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:12:07.4333|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:12:17.3197|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:12:17.3197|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:12:17.3804|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:12:17.3804|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:12:17.4014|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:12:17.4014|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:12:20.5296|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:12:30.1584|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:12:30.1584|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:12:30.2201|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:12:30.2201|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:12:30.2407|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:12:30.2407|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:12:31.4517|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:12:41.2076|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:12:41.2076|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:12:41.2679|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:12:41.2679|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:12:41.2887|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:12:41.2887|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:12:42.7889|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:12:52.7363|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:12:52.7363|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:12:52.7984|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:12:52.7984|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:12:52.8183|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:12:52.8183|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:12:55.3052|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:13:05.3461|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:13:05.3461|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:13:05.4053|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:13:05.4196|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:13:05.4286|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:13:05.4286|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:13:09.0692|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:13:20.1184|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:13:20.1184|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:13:20.1814|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:13:20.1937|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:13:20.1937|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:13:20.1937|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:13:21.4641|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:13:31.3583|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:13:31.3583|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:13:31.4192|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:13:31.4311|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:13:31.4394|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:13:31.4394|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:13:32.9851|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:13:43.3455|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:13:43.3455|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:13:43.4095|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:13:43.4095|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:13:43.4292|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:13:43.4292|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:13:46.3703|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:13:56.3520|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:13:56.3520|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:13:56.4137|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:13:56.4250|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:13:56.4250|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:13:56.4250|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:14:00.3772|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:14:10.0651|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:14:10.0651|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:14:10.1256|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:14:10.1407|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:14:10.1539|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:14:10.1539|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:14:11.1237|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:14:21.6970|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:14:21.6970|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:14:21.7777|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:14:21.8006|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:14:21.8177|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:14:21.8177|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:14:22.9727|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:14:34.0423|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:14:34.0423|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:14:34.1035|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:14:34.1183|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:14:34.1262|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:14:34.1262|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:14:35.6984|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:14:45.8243|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:14:45.8243|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:14:45.8881|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:14:45.8998|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:14:45.9080|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:14:45.9080|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:14:48.3128|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:14:58.7608|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:14:58.7608|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:14:58.8243|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:14:58.8404|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:14:58.8502|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:14:58.8502|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:15:00.7077|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:15:10.5951|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:15:10.5951|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:15:10.6586|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:15:10.6586|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:15:10.6797|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:15:10.6797|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:15:16.5841|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:15:26.5778|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:15:26.5778|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:15:26.6403|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:15:26.6521|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:15:26.6620|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:15:26.6620|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:15:54.7618|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:16:04.6164|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:16:04.6164|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:16:04.6787|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:16:04.6904|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:16:04.6904|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:16:04.6904|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:16:55.2214|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:17:04.6839|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:17:04.6839|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:17:04.7428|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:17:04.7543|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:17:04.7543|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:17:04.7543|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:17:05.9540|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:17:15.3664|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:17:15.3664|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:17:15.4247|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:17:15.4247|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:17:15.4467|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:17:15.4467|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:17:20.4265|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:17:30.1618|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:17:30.1618|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:17:30.2233|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:17:30.2233|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:17:30.2426|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:17:30.2426|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:17:50.8907|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:17:59.9961|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:17:59.9961|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:18:00.0607|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:18:00.0746|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:18:00.0831|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:18:00.0831|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:18:45.2924|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:18:55.2727|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:18:55.2727|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:18:55.3313|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:18:55.3313|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:18:55.3505|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:18:55.3505|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:18:55.7462|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:19:05.2882|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:19:05.2882|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:19:05.3500|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:19:05.3646|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:19:05.3646|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:19:05.3646|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:19:05.8504|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:19:15.6471|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:19:15.6471|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:19:15.7047|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:19:15.7047|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:19:15.7238|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:19:15.7238|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:19:16.7203|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:19:26.1929|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:19:26.1929|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:19:26.2559|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:19:26.2559|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:19:26.2761|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:19:26.2761|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:19:28.6423|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:19:37.9196|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:19:37.9196|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:19:37.9797|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:19:37.9920|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:19:37.9920|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:19:37.9920|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:19:38.4117|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:19:48.1507|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:19:48.1507|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:19:48.2101|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:19:48.2214|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:19:48.2214|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:19:48.2214|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:19:48.7493|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:19:58.3462|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:19:58.3462|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:19:58.4062|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:19:58.4180|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:19:58.4275|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:19:58.4275|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:19:59.5658|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:20:08.9090|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:20:08.9090|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:20:08.9700|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:20:08.9700|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:20:08.9891|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:20:08.9891|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:20:09.3847|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:20:18.5312|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:20:18.5312|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:20:18.5904|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:20:18.6023|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:20:18.6023|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:20:18.6023|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:20:19.1021|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:20:28.1888|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:20:28.1888|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:20:28.2469|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:20:28.2583|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:20:28.2583|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:20:28.2583|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:20:29.6846|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:20:38.9640|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:20:38.9640|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:20:39.0238|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:20:39.0349|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:20:39.0349|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:20:39.0349|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:20:39.4338|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:20:48.5765|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:20:48.5765|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:20:48.6377|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:20:48.6496|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:20:48.6575|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:20:48.6575|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:20:49.1179|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:20:58.3113|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:20:58.3113|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:20:58.3726|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:20:58.3848|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:20:58.3927|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:20:58.3927|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:20:59.2265|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:21:08.3543|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:21:08.3543|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:21:08.4124|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:21:08.4234|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:21:08.4234|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:21:08.4234|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:21:10.3648|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:21:19.6659|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:21:19.6659|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:21:19.7252|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:21:19.7360|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:21:19.7360|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:21:19.7360|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:21:20.2595|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:21:29.4437|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:21:29.4437|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:21:29.5030|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:21:29.5030|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:21:29.5223|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:21:29.5223|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:21:31.7500|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:21:40.9523|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:21:40.9523|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:21:41.0120|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:21:41.0259|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:21:41.0341|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:21:41.0341|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:21:58.8539|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:22:08.4157|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:22:08.4157|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:22:08.4743|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:22:08.4858|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:22:08.4858|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:22:08.4858|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:22:08.9204|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:22:18.5555|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:22:18.5555|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:22:18.6167|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:22:18.6279|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:22:18.6279|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:22:18.6279|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
+2019-11-05 16:22:20.1311|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service begin
+2019-11-05 16:22:29.9120|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Configure service end
+2019-11-05 16:22:29.9120|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite begin
+2019-11-05 16:22:29.9708|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Create callSite end
+2019-11-05 16:22:29.9708|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Usage: -m [method] -c [cache] -t [target] -n [number]
+2019-11-05 16:22:29.9921|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|  -m, --method=VALUE         should be ref/emit/exp
+  -c, --cache=VALUE          should be true/false
+  -t, --target=VALUE         should be foo/bar
+  -n, --number=VALUE         should be 100/1000/5000/10000
+  -l, --loop=VALUE           should be number between 1 and 10
+
+2019-11-05 16:22:29.9921|DEBUG||LeoninewAxe.Scaffold.DependencyInjection.App.Program1|Sample: -m ref -c true -t foo -n 10000 -l 10
